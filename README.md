@@ -31,6 +31,7 @@ const devsmkna: Developer = {
 [![BookShelf](https://github-readme-stats.vercel.app/api/pin/?username=devsmkna&repo=bookshelf&theme=swift)](https://github.com/devsmkna/bookshelf)
 
 ### 💬 Languages & Softwares
+<div>
 <img src="https://img.shields.io/badge/javascript-F7F7F7?style=for-the-badge&logo=javascript&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/html-F7F7F7?style=for-the-badge&logo=html5&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/css-F7F7F7?style=for-the-badge&logo=css3&logoColor=8B53FE">
@@ -56,6 +57,7 @@ const devsmkna: Developer = {
 <img src="https://img.shields.io/badge/figma-F7F7F7?style=for-the-badge&logo=figma&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/gimp-F7F7F7?style=for-the-badge&logo=gimp&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/slack-F7F7F7?style=for-the-badge&logo=slack&logoColor=8B53FE">
+</div>
 <!--
 **devsmkna/devsmkna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

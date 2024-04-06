@@ -20,8 +20,8 @@ const devsmkna: Developer = {
   pronouns: 'he' | 'him',
   location: 'Catania, Italy',
   dateOfBirth: new Date(1998,03,19),
-  languages: ['it_IT', 'en_US']
-  email: 'davidevisco@email.com'
+  languages: ['it_IT', 'en_US'],
+  email: 'davidevisco@email.com',
   hobbies: ['videogames', 'books', 'writing', 'space']
 }
 ```

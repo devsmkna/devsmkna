@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-8B53FE?style=for-the-badge&logo=linkedin&logoColor=F7F7F7&link=https://www.linkedin.com/in/viscod/)](https://www.linkedin.com/in/viscod/)
 [![Telegram](https://img.shields.io/badge/telegram-7167E1?style=for-the-badge&logo=telegram&logoColor=F7F7F7&link=https://t.me/deusmakina)](https://t.me/deusmakina)
+
 <!-- [![NPM](https://img.shields.io/badge/-587BC5?style=for-the-badge&logo=npm&logoColor=F7F7F7&link=https://t.me/deusmakina)](https://t.me/deusmakina) -->
 
 ### 👋 Hello there, I'm Davide
@@ -11,26 +12,31 @@ I am a full-stack web developer and videogame developer passionate about learnin
 ### 💻 whoami
 
 > “Shoot for the moon. Even if you miss, you'll land among the stars”
-> 
+>
 > <cite>- Normal Vincent Peale</cite>
 
 ```typescript
 const devsmkna: Developer = {
-  name: 'Davide Visco',
-  pronouns: 'he' | 'him',
-  location: 'Catania, Italy',
-  dateOfBirth: new Date(1998,03,19),
-  languages: ['it_IT', 'en_US'],
-  email: 'davidevisco@email.com',
-  hobbies: ['videogames', 'books', 'writing', 'space']
-}
+  name: "Davide Visco",
+  location: "Catania, Italy",
+  dateOfBirth: new Date(1998, 3, 19),
+  languages: ["it_IT", "en_US"],
+  email: "davidevisco@email.com",
+  hobbies: [
+    "🎮 videogames",
+    "📚 books",
+    "🖋️ writing",
+    "🌌 space"
+  ],
+};
 ```
 
 ### 🌱 Currently Working
 
-[![BookShelf](https://github-readme-stats.vercel.app/api/pin/?username=devsmkna&repo=bookshelf&theme=swift)](https://github.com/devsmkna/bookshelf)
+[![BookShelf](https://github-readme-stats.vercel.app/api/pin/?username=devsmkna&repo=bookshelf&theme=one_dark_pro)](https://github.com/devsmkna/bookshelf)
 
 ### 💬 Languages & Softwares
+
 <div>
 <img src="https://img.shields.io/badge/javascript-F7F7F7?style=for-the-badge&logo=javascript&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/html-F7F7F7?style=for-the-badge&logo=html5&logoColor=8B53FE">
@@ -58,17 +64,3 @@ const devsmkna: Developer = {
 <img src="https://img.shields.io/badge/gimp-F7F7F7?style=for-the-badge&logo=gimp&logoColor=8B53FE">
 <img src="https://img.shields.io/badge/slack-F7F7F7?style=for-the-badge&logo=slack&logoColor=8B53FE">
 </div>
-<!--
-**devsmkna/devsmkna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
